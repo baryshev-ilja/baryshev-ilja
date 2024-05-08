@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```
+git status
+git add
+git commit
+```
+
 <!--
 **baryshev-ilja/baryshev-ilja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
