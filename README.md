@@ -4,7 +4,7 @@
 {
     разметка: HTML,
     стили: SCSS/CSS,
-    язык: JavaScript,
+    язык: JavaScript/TypeScript,
     фреймворк: React,
     сборка: Webpack/Vite,
     компилятор: Babel,
