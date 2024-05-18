@@ -1,9 +1,21 @@
 ### Hi there 👋
 
-```
-git status
-git add
-git commit
+``` javascript
+{
+    разметка: HTML,
+    стили: SCSS/CSS,
+    язык: JavaScript,
+    фреймворк: React,
+    сборка: Webpack/Vite,
+    компилятор: Babel,
+    стейт-менеджер: Redux-Toolkit,
+    витрина-компонентов: Storybook,
+    тесты: {
+        unit: Jest,
+        e2e: Cypress,
+        скриншотные: Chromatic,
+    },
+};
 ```
 
 <!--
