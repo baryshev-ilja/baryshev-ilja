@@ -8,10 +8,11 @@
     фреймворк: React,
     сборка: Webpack/Vite,
     компилятор: Babel,
-    стейт-менеджер: Redux-Toolkit,
+    стейт-менеджер: Redux/Mobx,
     витрина-компонентов: Storybook,
     тесты: {
         unit: Jest,
+        интеграционные: React Testing Library,
         e2e: Cypress,
         скриншотные: Chromatic,
     },
