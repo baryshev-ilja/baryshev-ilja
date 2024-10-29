@@ -3,7 +3,7 @@
 ``` javascript
 {
     разметка: HTML,
-    стили: SCSS / CSS-модули / Styled-components,
+    стили: SCSS / 'CSS-модули' / 'Styled-components',
     язык: JavaScript / TypeScript,
     фреймворк: React,
     сборка: Webpack / Vite,
