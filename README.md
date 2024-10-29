@@ -3,15 +3,15 @@
 ``` javascript
 {
     разметка: HTML,
-    стили: SCSS/CSS,
-    язык: JavaScript/TypeScript,
+    стили: SCSS / CSS-модули / Styled-components,
+    язык: JavaScript / TypeScript,
     фреймворк: React,
-    сборка: Webpack/Vite,
+    сборка: Webpack / Vite,
     компилятор: Babel,
-    стейт-менеджер: Redux/Mobx,
+    стейт-менеджер: Redux / Mobx,
     витрина-компонентов: Storybook,
     тесты: {
-        unit: Jest,
+        unit: Jest / Vitest,
         интеграционные: React Testing Library,
         e2e: Cypress,
         скриншотные: Chromatic,
